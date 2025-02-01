@@ -1,0 +1,32 @@
+free,Show memory usage,3
+env,Display environment variables,4
+diff,Compare two files line by line,2
+clear,Clear the terminal screen,1
+find,Search for files and directories,4
+echo,Print messages or variables to the terminal,2
+grep,Search for patterns in text,3
+df,Show disk space usage,3
+chown,Change file owner or group,3
+alias,Create shortcuts for commands,3
+cat,Concatenate and display file contents,3
+chmod,Change file permissions,3
+who,Show who is logged into the system,3
+top,Show real-time system resource usage,2
+kill,Terminate a process,2
+ps,Display currently running processes,2
+make,Automate compilation by running Makefiles,2
+gcc,Compile C programs,2
+g++,Compile C++ programs,2
+man,Display the manual for a command,2
+scp,Securely copy files between systems,2
+ssh,Connect to a remote machine securely,2
+mv,Move a file,1
+cp,Copy,1
+rm,Delete a file,1
+rmdir,Delete a directory,1
+mkdir,Create a directory,1
+cd,Change current working directory,1
+ls,List files and directories in current working directory,1
+pwd,Print working directory,1
+SAVED_GAME,POINTS,2
+SAVED_GAME,LIVES,1
